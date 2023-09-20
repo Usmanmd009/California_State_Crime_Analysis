@@ -62,3 +62,53 @@ This datasets contains two tables therefore data modeling was carried out.
 ## Data Analysis and Visualization 
 
 ![](crimedashboard.png)
+
+- Total number of Crime is 293 thousand at the time when this dataset was taken.
+
+- Total number of male victims is 143 thousand , female victims 123 thousand and 27 thousand for Other victims.
+
+- Average victims age is 35 years.
+
+- Male victims has the higest number of crimes.
+
+- Vandalism tops the list on higest form of crimes followed by battery respectively.
+
+
+![](scene.jpg)
+
+## Conclusion And Recommendations
+
+![](imag.jpg)
+
+
+Preventing or reducing crime requires a multifaceted approach that involves various stakeholders, including government agencies, law enforcement, communities, and individuals. Here are some measures that can be taken to prevent or reduce crime...
+
+Establish community policing programs where law enforcement officers work closely with the community to build trust, gather information, and address issues collaboratively.
+
+Educate the public about the consequences of crime and the importance of law-abiding behavior through school programs, public campaigns, and community outreach.
+ 
+Invest in after-school programs, mentorship initiatives, and recreational activities for young people to keep them engaged in positive, productive activities.
+
+Implement programs and services to address substance abuse issues, including drug education, rehabilitation, and treatment centers.
+
+Ensure accessible and affordable mental health services to help individuals with mental health challenges, as untreated mental health issues can sometimes lead to criminal behavior.
+
+Create job training programs and support small businesses to improve economic opportunities, particularly in disadvantaged neighborhoods.
+
+Offer parenting classes and family support services to strengthen family structures and reduce risk factors for criminal behavior in children.
+
+Enforce stricter gun control measures, including background checks and waiting periods, to reduce the availability of firearms to potential criminals.
+ 
+Encourage the formation of neighborhood watch programs where residents look out for each other and report suspicious activity to law enforcement.
+
+Examine and reform the criminal justice system to focus on rehabilitation and reintegration rather than solely punitive measures. This may include reducing mandatory minimum sentences and investing in diversion programs.
+
+Promote restorative justice programs that aim to repair the harm caused by a crime, involve victims, and help offenders take responsibility for their actions.
+
+Provide ongoing training for law enforcement officers in de-escalation techniques, cultural sensitivity, and mental health crisis intervention.
+
+Implement modern surveillance technology, such as security cameras and ShotSpotter systems, to deter and respond to criminal activity.
+
+Ensure that victims of crime have access to support services, including counseling, legal assistance, and financial aid.
+
+Address homelessness and housing insecurity, as these issues are often associated with crime. Provide affordable housing options and support services for homeless individuals.
