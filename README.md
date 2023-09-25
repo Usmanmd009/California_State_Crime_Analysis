@@ -3,43 +3,43 @@
 
 ## Introduction
 
-Did you know that crime rates in major cities In California have been steadily increasing over the past decade? Imagine having access to a treasure trove of data that can help us understand and combat crime better.  I will present an in-depth analysis of various crime highlighting trends, patterns, and insights that can aid in crime prevention and law enforcement strategies..This portfolio focuses on crime datasets from the State of California, offering a comprehensive overview of the crime landscape in the State.
+Did you know that crime rates in major cities In California have been steadily increasing over the past decade? Imagine having access to a treasure trove of data that can help us understand and combat crime better.  I will present an in-depth analysis of various crime highlighting trends, patterns, and insights that can aid in crime prevention and law enforcement strategies..This Project focuses on crime datasets from the State of California, offering a comprehensive overview of the crime landscape in the State.
 
 ![](crime3.jpeg)
 
 ## Problem Statement
 
-The Objective of this analysis are as follows:
+The Objectives of this analysis are as follow:
 
-- Total number of crimes in the period
+- Total number of crimes in the period.
 
-- Total number of male victims
+- Total number of male victims.
 
-- Total number of female victims
+- Total number of female victims.
 
-- Total number of other victims
+- Total number of other victims.
 
-- Average victims age
+- Average victims age.
 
-- Total crime per month
+- Total crime per month.
 
-- Total crime by status description
+- Total crime by status description.
 
-- Top 20 crime by premises description
+- Top 20 crime by premises description.
 
 - ![](Crime1.jpeg)
 
 -  ## Skills Demostrated
 
-  The following skills are demostrated
+  The following skills are demostrated.
 
-  - Excel for data profiling
+  - Excel for data profiling.
     
-  - Measures for KPIs
+  - Measures for KPIs.
     
-  - Silcers for filtering
+  - Silcers for filtering.
     
-  - Power BI for data visualization
+  - Power BI for data visualization.
 
 ## Data Sourcing 
 ![](datasource.jpeg)
@@ -50,12 +50,12 @@ This datasets is from www.kaggle.com. it is a csv file with a single table. Its 
 
 ## Data Trnsformation 
 
-The is a clean data with very few null values with were filtered out. 
+The is a clean data with very few null values which  were filtered out. 
 
 
 ## Data Modeling 
 
-This datasets contains two tables therefore data modeling was carried out.
+These datasets contain two tables therefore data modeling was carried out.
 
 
 
@@ -63,13 +63,13 @@ This datasets contains two tables therefore data modeling was carried out.
 
 ![](crimedashboard.png)
 
-- Total number of Crime is 293 thousand at the time when this dataset was taken.
+- Total number of Crime is 293 ,000 at the time when this dataset was taken.
 
-- Total number of male victims is 143 thousand , female victims 123 thousand and 27 thousand for Other victims.
+- Total number of male victims is 143,000   , female victims 123,000 and 27,000 for Other victims.
 
 - Average victims age is 35 years.
 
-- Male victims has the higest number of crimes.
+- Male victim has the higest number of crimes.
 
 - Vandalism tops the list on higest form of crimes followed by battery respectively.
 
