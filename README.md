@@ -2,6 +2,7 @@
 ![](crime4.jpeg)
 
 ## Introduction
+![](1 CRIME.jpeg)
 
 Did you know that crime rates in major cities In California have been steadily increasing over the past decade? Imagine having access to a treasure trove of data that can help us understand and combat crime better.  I will present an in-depth analysis of various crime highlighting trends, patterns, and insights that can aid in crime prevention and law enforcement strategies..This Project focuses on crime datasets from the State of California, offering a comprehensive overview of the crime landscape in the State.
 
