@@ -113,3 +113,7 @@ Implement modern surveillance technology, such as security cameras and ShotSpott
 Ensure that victims of crime have access to support services, including counseling, legal assistance, and financial aid.
 
 Address homelessness and housing insecurity, as these issues are often associated with crime. Provide affordable housing options and support services for homeless individuals.
+
+Thanks for reading! Pls do well to share your view in the comments section, I would be glad to discuss further on this analysis.
+
+Follow me on www.linkedin.com/in/usman-muhammad-4992a3279
